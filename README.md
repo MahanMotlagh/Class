@@ -1,2 +1,2 @@
 # Class
-This for  repository ( Web design )
+This repository for  ( Web design )
